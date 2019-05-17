@@ -11,4 +11,4 @@ La seguente funzionalità, seppur non richiesta in maniera esplicita, rende migl
 - <p align="justify"> Passando con il mouse sulle varie barre che rappresentano le varie statistiche dei pokemon, è possibile visionare alcuni dettagli come il nome della statistica ed il suo valore. La porzione della colonna viene evidenziata tramite un contorno di colore nero e ponendo un leggero effetto di opacità al suo interno </p>
 
 ## Anteprima grafica
-![alt text](Anteprima_Stacked-Bar-Chart.png "Stacked Bar Chart")
+![alt text](Anteprima_Grafica.png "Stacked Bar Chart")
