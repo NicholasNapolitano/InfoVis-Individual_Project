@@ -8,7 +8,7 @@ Crea un file json con dei dati multivariati: ci sono 20 data-point e ogni data-p
 
 ## Funzionalità aggiuntiva
 La seguente funzionalità, seppur non richiesta in maniera esplicita, rende migliore la visualizzazione dello Stacked Bar Chart:
-- <p align="justify"> Passando con il mouse sulle varie barre che rappresentano le varie statistiche dei pokemon, è possibile visionare alcuni dettagli come il nome della statistica ed il suo valore. La porzione della colonna viene evidenziata tramite un contorno di colore nero e ponendo un leggero effetto di opacità al suo interno </p>
+- <p align="justify"> Passando con il mouse sulle varie barre che rappresentano le varie statistiche dei pokemon, è possibile visionare alcuni dettagli: nome della statistica, valore numerico, valore percentuale rispetto alla somma totale delle statistiche di quel pokemon. La porzione della colonna viene evidenziata tramite un contorno di colore nero e ponendo un leggero effetto di opacità al suo interno </p>
 
 ## Anteprima grafica
 ![alt text](Anteprima_Grafica.png "Stacked Bar Chart")
